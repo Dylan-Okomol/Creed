@@ -20,6 +20,14 @@ export async function POST(request: Request) {
     const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
     const GITHUB_REPO = process.env.GITHUB_REPO;
 
+    if (!GITHUB_TOKEN || !GITHUB_REPO) {
+      console.error('GitHub configuration missing: GITHUB_TOKEN or GITHUB_REPO is not defined.');
+      // In production (Vercel), we cannot fallback to local disk.
+      if (process.env.VERCEL) {
+        return NextResponse.json({ error: 'GitHub configuration is missing in Vercel environment variables.' }, { status: 500 });
+      }
+    }
+
     if (GITHUB_TOKEN && GITHUB_REPO) {
       try {
         const getFileRes = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/content/${project}/chapters/${chapter}.md`, {
