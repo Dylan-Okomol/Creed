@@ -3,9 +3,9 @@ import { NextResponse } from 'next/server';
 
 export async function GET(
   request: Request,
-  { params }: { params: { project: string; chapter: string } }
+  { params }: { params: Promise<{ project: string; chapter: string }> }
 ) {
-  const { project, chapter } = params;
+  const { project, chapter } = await params;
   const contentData = await getChapterContent(project, chapter);
 
   if (!contentData) {
