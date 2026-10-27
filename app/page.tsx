@@ -8,11 +8,11 @@ export default function HomePage() {
   const [isLibOpen, setIsLibOpen] = useState(false);
 
   return (
-    <main className="min-h-screen bg-background text-maroon p-6 md:p-12 lg:p-24 flex flex-col items-center relative overflow-hidden">
+    <main className="min-h-screen bg-background text-maroon p-6 md:p-12 lg:p-24 flex flex-col items-center relative">
 
       {/* Background Layer */}
       <div
-        className="absolute inset-0 z-0 pointer-events-none blur-[5.5px] scale-110"
+        className="fixed inset-0 z-0 pointer-events-none blur-[5.5px] scale-110"
         style={{
           backgroundImage: 'url(/images/backgrounds/background_clouds.jpg)',
           backgroundRepeat: 'repeat',
@@ -64,12 +64,11 @@ export default function HomePage() {
         {/* Section 1: Left Aligned, Rugged Edge */}
         <section className="flex flex-col items-start space-y-6">
           <p className="text-2xl md:text-3xl leading-relaxed smooth-edge max-w-2xl font-medium text-maroon">
-            The world in which I was born, you&apos;d expect that belief would be made derivative of truth,
-            after all, the word 'belief' points to an acceptance of something as truth. However,
-            all that belief requires is acceptance, truth often does not. What is the ideal correlation
-            between these two? Should whatever you accept be considered true, or should truth be accepted?
-            Can truth be accepted even if it is against the favour of humanity, or at a much smaller scale,
-            against yourself?
+            In our world, you&apos;d expect that belief would be direct derivative of truth.
+            The word 'belief' itself points to an acceptance of something as truth. However,
+            all that belief requires is acceptance, while truth often does not. What's the ideal?
+            Should whatever you accept be be solely considered as the truth, or should the truth be independent of your belief?
+            Can truth be accepted even if it is against the favour of your beliefs?
           </p>
           <div className="flex flex-col items-start gap-2">
             <div className="relative w-auto max-w-lg rounded-sm border border-maroon/20 overflow-hidden flex justify-center">
@@ -90,10 +89,9 @@ export default function HomePage() {
         {/* Section 2: Right Aligned, Smooth Edge */}
         <section className="flex flex-col items-end space-y-6">
           <p className="text-2xl md:text-3xl leading-relaxed rugged-edge max-w-2xl font-medium text-emerald-green">
-            Do you choose what to believe in? Or was it chosen for you, before you? Believing what
-            those before you meant for you, allows you to be in a state of repose, so choosing to
-            believe what was set before you, without the search for truth, is really the choice to conform;
-            and conform I did.
+            Do you choose what to believe in? Or was it chosen before you? For certain, believing what
+            is set before you aleviates the responsibility of having to define your beliefs, without reason
+            we can call it conforming. This may do the good of granting you repose.
           </p>
           <div className="flex flex-col items-end gap-2">
             <div className="relative w-auto max-w-lg rounded-sm border border-maroon/20 overflow-hidden flex justify-center">
@@ -115,13 +113,10 @@ export default function HomePage() {
         <section className="flex flex-col items-start space-y-6">
           <p className="text-2xl md:text-3xl leading-relaxed smooth-edge max-w-2xl font-medium text-maroon">
             Did conformity grant me repose? I mean, for a time. The good I encountered persuaded me
-            to point to my beliefs, so speaking, my beliefs became the cause of the good. Logically,
-            however, the good was responsible for affirming my beliefs and In realization of this,
-            I was overwhelmed by the vastness of beliefs that had previously been invalidated, beliefs
-            of other cultures and religions suddenly earned a small sense of recognition. That If I
-            lived in the context of those people, I would be no different. Accepting doctrines as
+            to point to my beliefs, in essense, I believed that my beliefs were the cause of my good. Logically,
+            however, the good was merely responsible for affirming those beliefs. Accepting doctrines as
             nothing but truth, in a kind of passionate faith; which would be, acceptance without the
-            need for evidence. I would live with repose in exchange for possible truth.
+            need for evidence. I would live with repose in exchange for potential realization of truths. 
           </p>
           <div className="flex flex-col items-start gap-2">
             <div className="relative w-auto max-w-lg rounded-sm border border-maroon/20 overflow-hidden flex justify-center">
@@ -142,30 +137,30 @@ export default function HomePage() {
         {/* Section 4: The Need - Center Aligned */}
         <section className="flex flex-col items-center text-center space-y-8 max-w-3xl mx-auto">
           <h2 className="text-4xl md:text-5xl font-bold text-maroon">
-            The Need.
+           I Need.
           </h2>
           <p className="text-2xl md:text-3xl leading-relaxed font-medium text-center">
-            There is need to cure the curse of truth. Truth beckons me to serve it&apos;s will.
-            Even if it means having the ground on which I stand shaken. Even if truth seeks
-            not to serve or even to punish. Truth needs me, not only to know it, but to love it.
-            For I as a being, am derivative of truths, and a derivative also of the rightful
-            negation of truths. I am part of the emerging of apparent truths, and the overcoming
-            of those truths by the truth itself. Such I believe is the essence of life. The
-            commitment and love, and the forsaking of such, to find other ends to commit to,
+            I need to cure the curse of truth, which beckons me to serve it&apos;s will.
+            Even if it means having the ground on which I stand, be shaken. Even if the truth seeks
+            not to serve  me but instead to punish. Truth needs me, not only to know it, but to love it.
+            For I as a being, am derivative of truths, and a derivative also of the 
+            negation of those truths. I am part of the emerging of the apparent, and the overcoming
+             itself. Such I believe is the essence of life. The creation and
+            commitment and love, and the forsaking, in order to find other ends to commit to,
             and live by.
           </p>
           <p className="text-2xl md:text-3xl leading-relaxed font-bold text-maroon">
-            That is why I seek to write that which I live by. That I may make my contribution to
+            That is why I seek to write that which I live by. That I may make my contribution to my 
             truth as a conscious source, and not only live to affirm it by the testimonies
             of it&apos;s prevailing good. This is My Creed.
           </p>
         </section>
 
         {/* Call to Action */}
-        <footer className="flex justify-center pt-12 pb-24">
+        <footer className="flex justify-center pt-12 pb-24 w-full">
           <Link
             href="/library"
-            className="px-10 py-4 bg-maroon text-background font-bold rounded-sm hover:bg-maroon/90 transition-colors text-xl"
+            className="px-10 py-4 bg-maroon text-background font-bold rounded-sm hover:bg-maroon/90 transition-colors text-xl text-center"
           >
             Library
           </Link>
