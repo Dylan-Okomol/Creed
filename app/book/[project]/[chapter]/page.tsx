@@ -38,9 +38,7 @@ async function ReaderContent({ params }: { params: Promise<{ project: string; ch
 
   const processedContent = await remark()
     .use(remarkGfm)
-    .use(remarkHtml, {
-      emoji: false,
-    })
+    .use(remarkHtml, false)
     .process(rawContent);
 
   // Custom replacement for the awkward back-arrow ↩
