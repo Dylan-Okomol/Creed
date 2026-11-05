@@ -13,13 +13,13 @@ It is a sort of cure to what Fromm, in his work *The Art of Loving*, would call 
 
 In this respect, human beings become beings of beauty. Recognition, conceptualization then the reduction of this vastness to beautiful and ultimately simple patterns. Bringing this simplicity into functionality and using it to observe more nature and more of nature. Hence, art and the embrace of the aesthetic is an expression of the human desire for all to tend to one. 
 
-The anxiety of human reality would be a nature that explodes into incoherent absurdity, yet, even problems that are seem too large to lack beauty have time and time again, proven themselves to be but a matter of perspective.
+The anxiety of human reality would be a nature that explodes into incoherent absurdity, yet, even problems that seem too large to lack beauty have time and time again, proven themselves to be but a matter of perspective.
 
-The reversal of this is that the apparent Joy(or better said, the completion) of human existence would be the realization that all in nature can be refined to one explanation and fundamental. This becomes the basis of most religious belief. That all may be one. To quote the Bible, John 17:20–23 (NKJV):
+The reversal of this is that the apparent Joy, or better said, the completion of human existence would be the realization that all in nature can be refined to one explanation and one fundamental. This becomes the ends that most of religion tends towards. That all may be one. To quote the Bible, John 17:20–23 (NKJV):
 
 > “I do not pray for these alone, but also for those who will believe in Me through their word; that they all may be one, as You, Father, are in Me, and I in You; that they also may be one in Us, that the world may believe that You sent Me. And the glory which You gave Me I have given them, that they may be one just as We are one: I in them, and You in Me; that they may be made perfect in one, and that the world may know that You have sent Me, and have loved them as You have loved Me.”
 
-I make my observation and judgement independent of the accordance to Christian doctrine. I only mention it as an exemplification of the desire for the beautiful simplicity of the unity of nature.
+I make my observation and judgement independent of my accordance to Christian doctrines. I only mention it as an exemplification of the desire for man to move towards a beautiful simplicity that would be, the unity of nature.
 
 ## What Nature Desires
 
