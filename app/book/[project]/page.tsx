@@ -8,13 +8,15 @@ async function BookIndexContent({ params }: { params: Promise<{ project: string 
 
   return (
     <div className="max-w-3xl w-full relative z-10 flex flex-col items-center">
-      <header className="mb-20 text-center">
-        <Link
-          href="/"
-          className="absolute -left-12 top-0 text-maroon hover:opacity-70 transition-opacity text-sm font-medium"
-        >
-          ← Home
-        </Link>
+      <header className="mb-20 w-full text-center">
+        <nav className="mb-10 flex justify-start">
+          <Link
+            href="/"
+            className="text-maroon hover:opacity-70 transition-opacity text-sm font-medium"
+          >
+            ← Home
+          </Link>
+        </nav>
         <h1 className="text-5xl md:text-7xl font-bold text-maroon tracking-tight mb-6 capitalize">
           {project.replace(/-/g, ' ')}
         </h1>

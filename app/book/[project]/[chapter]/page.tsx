@@ -114,20 +114,22 @@ export default async function ReaderPage({ params }: { params: Promise<{ project
       />
 
       {/* Navigation Header */}
-      <header className="p-4 md:p-6 border-b border-emerald-green/20 bg-background/80 backdrop-blur-md sticky top-0 z-20 flex justify-between items-center w-full">
-        <div className="flex items-center gap-4 md:gap-6 overflow-x-auto">
-          <Link
-            href="/"
-            className="text-maroon hover:opacity-70 transition-opacity text-sm font-medium whitespace-nowrap"
-          >
-            ← Home
-          </Link>
-          <Suspense fallback={<span className="text-sm text-emerald-green/50">Loading...</span>}>
-            <IndexLink params={params} />
-          </Suspense>
-        </div>
-        <div className="text-[10px] md:text-xs text-emerald-green/60 uppercase tracking-widest font-mono whitespace-nowrap ml-4">
-          The Creed
+      <header className="py-4 md:py-6 border-b border-emerald-green/20 bg-background/80 backdrop-blur-md sticky top-0 z-20 w-full">
+        <div className="mx-auto flex w-full max-w-3xl justify-between items-center px-4 sm:px-6">
+          <div className="flex items-center gap-4 md:gap-6 overflow-x-auto">
+            <Link
+              href="/"
+              className="text-maroon hover:opacity-70 transition-opacity text-sm font-medium whitespace-nowrap"
+            >
+              ← Home
+            </Link>
+            <Suspense fallback={<span className="text-sm text-emerald-green/50">Loading...</span>}>
+              <IndexLink params={params} />
+            </Suspense>
+          </div>
+          <div className="text-[10px] md:text-xs text-emerald-green/60 uppercase tracking-widest font-mono whitespace-nowrap ml-4">
+            The Creed
+          </div>
         </div>
       </header>
 
