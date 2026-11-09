@@ -71,11 +71,9 @@ export default async function BookIndexPage({ params }: { params: Promise<{ proj
     <main className="min-h-screen bg-background text-emerald-green p-6 md:p-12 lg:p-24 flex flex-col items-center relative overflow-hidden">
       {/* Background Layer */}
       <div
-        className="fixed inset-0 z-0 pointer-events-none"
+        className="fixed inset-0 z-0 pointer-events-none bg-repeat bg-[length:360px_auto] sm:bg-[length:600px_auto] md:bg-[length:800px_auto]"
         style={{
           backgroundImage: 'url(/images/backgrounds/swirls_background.jpg)',
-          backgroundRepeat: 'repeat',
-          backgroundSize: 'auto'
         }}
       />
       <Suspense fallback={<div className="flex-1 flex items-center justify-center text-maroon">Loading Catalogue...</div>}>

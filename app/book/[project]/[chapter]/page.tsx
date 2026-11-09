@@ -105,11 +105,9 @@ export default async function ReaderPage({ params }: { params: Promise<{ project
     <main className="min-h-screen bg-background text-emerald-green flex flex-col relative">
       {/* Global Background Swirls - creating the "manuscript" frame */}
       <div
-        className="fixed inset-0 z-0 pointer-events-none opacity-30"
+        className="fixed inset-0 z-0 pointer-events-none opacity-30 bg-repeat bg-[length:360px_auto] sm:bg-[length:600px_auto] md:bg-[length:800px_auto]"
         style={{
           backgroundImage: 'url(/images/backgrounds/swirls_background.jpg)',
-          backgroundRepeat: 'repeat',
-          backgroundSize: 'auto'
         }}
       />
 
