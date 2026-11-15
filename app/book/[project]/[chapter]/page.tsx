@@ -70,11 +70,8 @@ async function ReaderContent({ params }: { params: Promise<{ project: string; ch
           [&_sup a]:before:content-['['] [&_sup a]:after:content-[']']
           [&_.footnotes]:mt-12 [&_.footnotes]:pt-4
           [&_.footnotes h2]:hidden
-          [&_.footnote]:mb-6 [&_.footnote]:text-lg [&_.footnote]:leading-relaxed
-          [&_.footnote-backref]:hidden
+          [&_.footnotes_li]:mb-6 [&_.footnotes_li]:text-lg [&_.footnotes_li]:leading-relaxed
           [&_.footnotes ol]:list-decimal [&_.footnotes ol]:pl-6 [&_.footnotes ol]:m-0
-          [&_.footnotes li]:flex [&_.footnotes li]:gap-2 [&_.footnotes li]:items-start
-          [&_.footnotes li > a]:hidden
         "
         dangerouslySetInnerHTML={{ __html: strippedContent }}
         />

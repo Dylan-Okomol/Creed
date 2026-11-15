@@ -1,0 +1,41 @@
+---
+title: The True World
+section: General
+---
+
+# True Worlds.
+ 
+The true wold, That which exists above us; not what man accused to be the sky, but that which we consider to be above man, which is, the world of the spirit. The world of forms, the cave of Plato and in it his shadows, Schopenhauer's world of will and the representations of it. I and the rest of the people of society have been taught that the spiritual world is what informs the tangible world. That the battle between the forces of good and evil are acts that are beyond what the eye can see. That our life essence is a possession or fusion of a spirit to a body or a body with a spirit. A sense of mind body dualism fathered by western philosophy. It governs our ethics, and in extension our values and what we believe to be of the highest value. It informs our fears, and gives us room to dream. There is no way to prove the existence of this spiritual world, this 'true' world, but neither is there a way to disprove it, so logically that's enough to be a suitable argument to towards the invalidity of the true world, the world beyond. It is absolute and its absoluteness makes it, by logic, invalid. But wait, the evidence of a world beyond need not be measured, we can feel it.
+ 
+That alone can be sufficient to say that there is a world of spirits, because we have spiritual experiences, dreams and revelations, prophecies and sensations with all manner of profoundness, but are their origins beyond us, or perhaps within us? This also follows the idea of God.
+ 
+For we believe that God, the devil and their subordinates reside in a true world. My question, however, stands to be whether he exists beyond us, beyond the line of life - call it the afterlife, whether his forces act through nature and nature's effects to us, or is the act originally from within us? Of course, concluding that it is all within our minds, places upon it the judgment that it is purely fictitious, which does away with the Idea of God as a whole; which is the general atheist stance, that they are all lies that have convicted us. However, truth, existence and belief tread on solely different paths.
+ 
+## God.
+ 
+For for that reason precisely I do not oppose the existence of God, but I do oppose his position. I believe God does exist, but exclusively and collectively within us, not at all beyond us. He exists in the faculty that is capable of looking beyond ourselves. Looking beyond ourselves to seek audience and comfort and presence with or in a person that is really within us and only just within us, and in extension, that person is us. The faculty that allows us to conceptualize also ourselves, that we may exist as an independent entity to ourselves, inside ourselves, as an object that is subject to itself. In this respect we are also ourselves God[^1], and whoever else we may conceive, conceptualize and acknowledge, that we may also allow to rule over our actions, that may give us values and in extension transgressions, is also God. The understanding of this is the good news, the gospel, the salvation, and is itself the oneness with God. Christ was the embodiment of the sensitivity to this. That understanding and believing his stance would get you to God through his ideals, the son of God, who led believers to the 'completion' of this perspective, as he himself proclaimed[^2]. The throne and the kingdom, hell, and the lake of fire. In the true world, if it is within us, and only within us, then it is all true. Whether lies, or conviction, the two are not mutually exclusive. That is to say:
+ 
+**(The Antichrist 55, F.W. Nietzsche)**
+ 
+> One step further in the psychology of conviction, of "faith." It is now a good while since I first proposed for consideration the question whether convictions are not even more dangerous enemies to truth than lies. ("Human, All-Too-Human," I, aphorism 483.)[27] This time I desire to put the question definitely: is there any actual difference between a lie and a conviction?—All the world believes that there is; but what is not believed by all the world!—Every conviction has its history, its primitive forms, its stage of tentativeness and error: it becomes a conviction only after having been, for a long time, not one, and then, for an even longer time, hardly one. What if falsehood be also one of these embryonic forms of conviction?—Sometimes all that is needed is a change in persons: what was a lie in the father becomes a conviction in the son.
+ 
+Indeed for the true world to be beyond us is a matter that treads on the path of science and episteme, which have no tolerance for that which is beyond proving. That which is in nature is also in atonement with science, for science observes nature, and if science is not capable of observing a true world then it is not part of nature.
+ 
+This is to say that man, who is subordinate to nature, then subordinates God that is in our hearts to nature, precisely because he is in our hearts. For where else could he be? Our theological values point all that is in nature to God, as if they were two and separate entities, one causing the other. We men, that are observers of God, are instead his existence. For without man, who is the conscious observer of him, God would not exist. So nature, that drove herself towards the creation of man, created a being that could lift her to the acknowledgment of her true metaphysical value, that is, God. Then the God in man separated himself from nature and instead subordinated nature to him, through pure, conscious thought. Plato, Schopenhauer. The cave and the shadow, the world of will and representation. That the true world is of more value and hence higher in the chain of causality. That the world of the spirits influence the world that is.
+ 
+My proposition would be that the world, the tangible world is higher than the true world. What occurs in nature influences us, hence influencing the 'true world' that exists within us. When storms rage, rivers flood and houses burn, it is then that God is angry. When the breeze is light and the harvest is good, then God is pleased.
+ 
+The communication of God is through what is present in the world, which I refer to as nature. That whatever may happen in nature is whatever we know to be the answer to our prayers. That healing, or death is the response to a plea that we have no control over, but would gladden our hearts to know that we perhaps could.
+ 
+## What of it? What then?
+ 
+Indeed, our Gods convene and congregate at the point of convergence of all human desire, that is, the heart. They all become subordinate to us, and shift in value according to our knowledge of them and what we desire from them. Whether we sin or obey, against or in alignment with, the values of the Gods within us, the actions of nature can neither be considered the punishment nor the reward, for those are but our own perception.
+ 
+What we are left to do is notice what nature is tending towards. Does she need us to constitute our reality of purely true worlds and in turn deny life itself, or do away with them and make nature herself our one and true concern?
+ 
+I have done away with the true world as one that is beyond us, and have accepted, that the true world is, and only is, within me. That I am subordinate to nature and my true worlds are subordinate to me. That my true worlds may aid in the advancement of what is in nature and whatever she selects. In the law of overcoming, the true worlds that I create, however much I love them, my expansion forces me to soon oppose them and my love also.
+ 
+## Footnotes and references
+ 
+[^1]: John 10:34-38 - The references I'm describing concerning humans being themselves God are. "Is it not written in your Law, 'I have said you are "gods"'" and in v38: "... believe the works, that you may know and understand that the Father is in me, and I in the Father." To reference of Jesus expressing the oneness that implies directly that God is in him.
+[^2]: John 14:6 - "I am the way and the truth and the life. No one comes to the Father except through me. 7 If you really know me, you will know[b] my Father as well. From now on, you do know him and have seen him."
