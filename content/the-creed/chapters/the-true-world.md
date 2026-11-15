@@ -1,3 +1,8 @@
+---
+title: The True World
+section: General
+---
+
 # True Worlds.
  
 The true wold, That which exists above us; not what man accused to be the sky, but that which we consider to be above man, which is, the world of the spirit. The world of forms, the cave of Plato and in it his shadows, Schopenhauer's world of will and the representations of it. I and the rest of the people of society have been taught that the spiritual world is what informs the tangible world. That the battle between the forces of good and evil are acts that are beyond what the eye can see. That our life essence is a possession or fusion of a spirit to a body or a body with a spirit. A sense of mind body dualism fathered by western philosophy. It governs our ethics, and in extension our values and what we believe to be of the highest value. It informs our fears, and gives us room to dream. There is no way to prove the existence of this spiritual world, this 'true' world, but neither is there a way to disprove it, so logically that's enough to be a suitable argument to towards the invalidity of the true world, the world beyond. It is absolute and its absoluteness makes it, by logic, invalid. But wait, the evidence of a world beyond need not be measured, we can feel it.
