@@ -34,6 +34,8 @@ Indeed, our Gods convene and congregate at the point of convergence of all human
 What we are left to do is notice what nature is tending towards. Does she need us to constitute our reality of purely true worlds and in turn deny life itself, or do away with them and make nature herself our one and true concern?
  
 I have done away with the true world as one that is beyond us, and have accepted, that the true world is, and only is, within me. That I am subordinate to nature and my true worlds are subordinate to me. That my true worlds may aid in the advancement of what is in nature and whatever she selects. In the law of overcoming, the true worlds that I create, however much I love them, my expansion forces me to soon oppose them and my love also.
+
+For man is not a product of heaven but instead, heaven is the product of man, who is, a product of nature.
  
 ## Footnotes and references
  
