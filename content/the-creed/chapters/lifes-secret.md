@@ -1,10 +1,11 @@
 ---
 title: Life's Secret
-section: Foundations
+section: Foundation
 ---
 
 
-##Beauty
+
+## Beauty
 
 From the much I have observed of myself and of humanity; it is our nature to cling to monist[^1] ideals to explain the vastness of existence. For everything we perceive, we do so individually so as naturally unified beings, we desire to unify also the world by allowing it to be all one, and one secret. 
 
