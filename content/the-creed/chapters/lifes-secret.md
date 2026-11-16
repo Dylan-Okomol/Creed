@@ -1,11 +1,10 @@
 ---
 title: Life's Secret
 section: Foundations
-x: 0
-y: 0
 ---
 
-## Human Beauty
+
+##Beauty
 
 From the much I have observed of myself and of humanity; it is our nature to cling to monist[^1] ideals to explain the vastness of existence. For everything we perceive, we do so individually so as naturally unified beings, we desire to unify also the world by allowing it to be all one, and one secret. 
 
@@ -45,7 +44,7 @@ like that, I find myself with the desire to cling to this ideal in a monist way.
 
 In a sense, the nature of this belief is in itself complete, through the acknowledgement of life's will to power, not moving from a state of incompleteness, but being in a state of complete overcoming.
 
-## A Priori Judgments
+## What of it? What then?
 
 All states of being are to be accepted. To embrace the transitory nature of life is to embrace life itself. Every change is to be acknowledged; even perceptively negative change, either within circumstance or within oneself, for the zone of destruction is exactly where my desire's are sacrificed, for power. 
 
